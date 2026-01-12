@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Erika Jimenez Gonzalez
+- **CCID:** edjimen1
 
 ## References and Resources
 
